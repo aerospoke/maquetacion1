@@ -1,0 +1,26 @@
+.navBar{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color: rgb(58, 58, 73);
+    position: fixed;
+    padding: 0 20px;
+    width: 100%;
+    box-sizing: border-box;
+
+}
+
+
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+   
+
+}
+.logo img {
+    width: 65%;
+    height: 65%;
+}
